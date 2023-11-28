@@ -15,7 +15,7 @@
     },
     "dependencies": {},
     "devDependencies": {
-      "cypress": "^9.7.0"
+      "cypress": "^13.6.0"
     },
     "author": "curriculum@appacademy.io",
     "license": "ISC"
